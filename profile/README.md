@@ -20,10 +20,10 @@ Nos define la integridad y la excelencia. Aunque gran parte de nuestra infraestr
 ---
 
 ### ⚡ Connect with Us / Conéctate con nosotros
-<p align="left">
-<a href="https://credipyme.com.pe" target="_blank"><img src="https://img.icons8.com/ios-filled/100/38BDF8/internet--v1.png" alt="Website" width="35" height="35"/></a>
-<a href="https://facebook.com/credipyme.com.pe" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="35" height="35"/></a>
-<a href="https://instagram.com/credipyme.com.pe" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="35" height="35"/></a>
+<p>
+<a href="https://credipyme.com.pe" target="_blank"><img src="https://img.icons8.com/ios-filled/100/38BDF8/internet--v1.png" alt="Website" width="35"/></a>
+<a href="https://facebook.com/credipyme.com.pe" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="35" /></a>
+<a href="https://instagram.com/credipyme.com.pe" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="35" /></a>
 </p>
 
 ---
